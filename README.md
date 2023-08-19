@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShenY07
+- 👋 Hi, I’m @ShenYan
 - 👀 I’m interested in mathmatics
 - 📕 I'm studying in University of Science and Technology of China to obtain master degree
 - 🌱 I’m currently learning numerical methods on solving PDEs
